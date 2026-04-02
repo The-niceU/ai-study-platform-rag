@@ -64,7 +64,7 @@
 </p>
 
 <details>
-  <summary><b>查看更多页面截图</b></summary>
+  <summary><b>查看详细页面截图</b></summary>
 
   <br />
 
