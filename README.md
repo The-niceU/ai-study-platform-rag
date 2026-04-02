@@ -1,4 +1,4 @@
-<img width="1351" height="596" alt="image" src="https://github.com/user-attachments/assets/8e832825-4141-4fe3-b8ab-1a74b834aa7a" /># AI Study Platform
+# AI Study Platform
 
 <p align="center">
   <strong>一个基于 Vue 3 + FastAPI + MySQL + FAISS + RAG 的课程资料智能问答与文档管理系统</strong>
