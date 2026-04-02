@@ -355,14 +355,6 @@ http://localhost:5173
 
 ---
 
-## 简历描述参考
-
-**AI 学习平台：基于 RAG 的课程资料智能问答与文档管理系统**  
-独立设计并实现一个面向课程资料管理与智能学习场景的前后端分离系统，支持文档上传、解析、切分、向量检索、检索增强问答及引用来源展示。
-
-**技术栈：** Vue 3、Element Plus、FastAPI、SQLAlchemy、MySQL、FAISS、sentence-transformers、OpenAI-compatible API
-
----
 
 ## License
 
