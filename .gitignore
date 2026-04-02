@@ -1,0 +1,25 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+# Env
+backend/.env
+
+# Uploads / generated files
+backend/uploads/
+backend/faiss_index/
+
+# Node
+frontend/frontend-app/node_modules/
+frontend/frontend-app/dist/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+简历介绍.md
+README.md

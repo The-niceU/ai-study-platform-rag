@@ -1,0 +1,44 @@
+:root {
+    font-family: "Inter", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+    color: #1f2329;
+    background: #f6f8fb;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    background: #f6f8fb;
+}
+
+body {
+    color: #1f2329;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.el-button {
+    border-radius: 12px !important;
+    font-weight: 600;
+}
+
+.el-input__wrapper,
+.el-textarea__inner,
+.el-input-number {
+    border-radius: 12px !important;
+}
+
+.el-card {
+    border-radius: 20px !important;
+}

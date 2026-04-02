@@ -1,0 +1,14 @@
+fastapi[standard]
+sqlalchemy
+pymysql
+python-dotenv
+python-multipart
+passlib==1.7.4
+bcrypt==4.0.1
+python-jose[cryptography]
+email-validator
+pymupdf
+python-docx
+faiss-cpu
+sentence-transformers
+openai
